@@ -1,1 +1,1 @@
-data management and ecommerce project
+database management and ecommerce project
