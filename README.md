@@ -1,1 +1,1 @@
-this project is for database management course of summer'22
+data management and ecommerce project
