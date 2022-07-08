@@ -25,8 +25,7 @@
                     <a href="#" class="navbar-brand" style="font-size: 24px;"><span style="color: red;">P</span>etS</a>
 
                     <!-- responsive toggle icon -->
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapse1"
-                        aria-controls="collapse1" aria-expanded="false" aria-label="Toggle navigation">
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapse1" aria-controls="collapse1" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
 
@@ -34,8 +33,7 @@
                     <div class="collapse navbar-collapse" id="collapse1">
                         <ul class="navbar-nav mr-auto text-uppercase font-weight-light">
 
-                            <li class="nav-item dropdown" href="#" id="navbarDropdown" role="button"
-                                data-toggle="dropdown" aria-expanded="false" aria-haspopup="true">
+                            <li class="nav-item dropdown" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true">
                                 <a class="nav-link text-white dropdown-toggle" href="#">Adopt a pet</a>
                             </li>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -48,8 +46,7 @@
                             <li class="nav-item"><a class="nav-link text-white" href="#">Shop</a></li>
                         </ul>
                         <li class="nav-item ml-md-auto">
-                            <a href="#" type="button" class="btn btn-secondary p-2"
-                                style="font-size: smaller;">Admin/Seller</a>
+                            <a href="#" type="button" class="btn btn-secondary p-2" style="font-size: smaller;">Admin/Seller</a>
                         </li>
                     </div>
                 </div>

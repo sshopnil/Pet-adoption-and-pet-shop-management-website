@@ -1,6 +1,6 @@
 <!-- navigation bar ends -->
 
-<section class="hero-section">
+<section class="hero-section" style="background: linear-gradient(rgba(0, 0, 0, 0.757), rgba(0, 0, 0, 0.561)), url('images/hero-section/pexels-arina-krasnikova-7725998.jpg') no-repeat center / cover;">
         <div class="container-fluid">
             <div class="row">
                 <div class="container">
