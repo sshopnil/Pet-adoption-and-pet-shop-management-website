@@ -4,13 +4,13 @@
         <div class="container-fluid">
             <div class="row p-5 text-white text-center">
                 <!-- <div class="container text-white"> -->
-                <div class="col-md-4">
+                <div class="col-md-4 support">
                     <h2 class="h5">24/7 support</h2>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 about">
                     <h2 class="h5">Largest online pet shop</h2>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 emergency">
                     <h2 class="h5">Emergency rescue</h2>
                 </div>
                 <!-- </div> -->

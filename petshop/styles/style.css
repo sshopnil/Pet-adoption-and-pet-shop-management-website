@@ -1,5 +1,5 @@
 @import url(fonts/Montserrat-Regular.ttf);
-html
+body
 {
     font-family: 'Montserrat-Regular', sans-serif;
 }
@@ -42,4 +42,9 @@ html
  .contactus
  {
     background-color: #020c24de;
+ }
+ .support
+ {
+   border: 2px solid white;
+   border-radius: 0 50%;
  }

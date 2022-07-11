@@ -13,10 +13,10 @@
                     <br>
                     <!-- login button -->
                     <div class="lgButton">
-                        <a href="#" class="btn text-white">Sign In</a>
+                        <a href="login.php" class="btn text-white">Sign In</a>
                     </div>
                     <p style="font-size: 16px;">not a member yet?
-                        <a class="text-danger btn-link" href="#">click here to register</a>
+                        <a class="text-danger btn-link" href="registration.php">click here to register</a>
                     </p>
                     <div class="col-md-4"></div>
                 </div>

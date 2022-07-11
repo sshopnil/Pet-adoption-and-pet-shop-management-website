@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>petS</title>
+    <title>pets</title>
     <link rel="shortcut icon" href="images/icons/Creative-Tail-Animal-dog.svg.png" type="image/x-icon">
     <link rel="stylesheet" href="bootstrap/bootstrap.min.css">
     <link rel="stylesheet" href="styles/style.css">
@@ -22,7 +22,7 @@
             <div class="container">
                 <div class="navbar navbar-expand-md navbar-dark">
                     <!-- logo  -->
-                    <a href="#" class="navbar-brand" style="font-size: 24px;"><span style="color: red;">P</span>etS</a>
+                    <a href="index.php" class="navbar-brand" style="font-size: 24px;"><span style="color: red;">P</span>etS</a>
 
                     <!-- responsive toggle icon -->
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapse1" aria-controls="collapse1" aria-expanded="false" aria-label="Toggle navigation">
@@ -46,7 +46,7 @@
                             <li class="nav-item"><a class="nav-link text-white" href="#">Shop</a></li>
                         </ul>
                         <li class="nav-item ml-md-auto">
-                            <a href="#" type="button" class="btn btn-secondary p-2" style="font-size: smaller;">Admin/Seller</a>
+                            <a href="registration.php" type="button" class="btn btn-secondary p-2" style="font-size: smaller;"><?php echo getBtnName(); ?></a>
                         </li>
                     </div>
                 </div>

@@ -1,4 +1,9 @@
-<?php include "includes/header.php"; ?>
+<?php include "includes/header.php";
+    function getBtnName()
+    {
+        return 'Registration';   
+    }
+?>
 
 <?php include "includes/heroSection.php"; ?>
 
@@ -9,3 +14,4 @@
 
     <!-- footer section -->
 <?php include "includes/footer.php"; ?>
+
