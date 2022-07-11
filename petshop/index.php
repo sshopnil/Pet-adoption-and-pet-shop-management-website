@@ -3,6 +3,10 @@
     {
         return 'Registration';   
     }
+    function getBtnPath()
+    {
+        return 'registration.php';
+    }
 ?>
 
 <?php include "includes/heroSection.php"; ?>

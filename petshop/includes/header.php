@@ -43,10 +43,10 @@
                             </div>
 
                             <li class="nav-item"><a class="nav-link text-white" href="#">Rescue/Shelter</a></li>
-                            <li class="nav-item"><a class="nav-link text-white" href="#">Shop</a></li>
+                            <li class="nav-item"><a class="nav-link text-white" href="shop/shop.html">Shop</a></li>
                         </ul>
                         <li class="nav-item ml-md-auto">
-                            <a href="registration.php" type="button" class="btn btn-secondary p-2" style="font-size: smaller;"><?php echo getBtnName(); ?></a>
+                            <a href= "<?php echo getBtnPath(); ?>" type="button" class="btn btn-secondary p-2" style="font-size: smaller;"><?php echo getBtnName(); ?></a>
                         </li>
                     </div>
                 </div>

@@ -4,6 +4,10 @@
     {
         return 'Registration';   
     }
+    function getBtnPath()
+    {
+        return 'registration.php';
+    }
 ?>
 
 <!-- login section starts-->

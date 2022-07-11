@@ -17,6 +17,10 @@
     {
         return 'Login';   
     }
+    function getBtnPath()
+    {
+        return 'login.php';
+    }
 ?>
 <!-- registration section starts -->
 <div class="container">
